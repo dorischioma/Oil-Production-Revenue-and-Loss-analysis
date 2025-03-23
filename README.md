@@ -18,4 +18,24 @@ Key stakeholders include oil companies, government and investors.
 - Which crude terminals is Safe from theft ?
 - Which crude terminal is the safest from thefft
 - Who produces the most oil
-- which terminal operator has the higest operationall loss 
+- which terminal operator has the higest operationall loss
+
+## Data Sources:
+-	NEITI
+-	EIA
+
+## Tools
+- Excel
+- Power BI
+
+### Data cleaning
+1.	Handling Theft/Sabotage data:
+The theft/sabotage column in the crude oil production 2022-2023 dataset represents the volume of crude oil lost due to theft, sabotage or vandalism. This information is crucial for understanding production losses and their impact on fiscalized production and revenue. However, during data review, I observed that no theft values were recorded for the year 2022, all fields under this column were either blank or missing. Additionally for years, theft values are expected to be all negative, as negative values would not make logical sense in this context. Using power query in excel,
+-	I replaced missing values in theft sabotage for 2022 with zero, assuming that there was no reported theft in 2022.
+-	Negative values in Theft/sabotage were replaced with zero as theft losses cannot be negative.
+2.	Ensuring accuracy and consistency:
+Historical production and revenue data was downloaded precleaned and organized already, brent raw data also came in clean, but for the purpose of this analysis, I had to aggregate the price for each year, meanwhile, for the crude production 2022-2023 data I had to remove unnecessary columns, handle duplicates and missing values, restructure the data into a more suitable format for analysis, additionally, I standardized the dataset by ensuring consistency in text formatting. 
+
+
+## Key Insights
+
