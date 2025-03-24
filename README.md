@@ -7,22 +7,22 @@ This project involves finance, economics, security and operations data.
 By leveraging descriptive and diagnostic analysis, this project will show how theft patterns correlate with revenue drops or production shortages.
 Key stakeholders include oil companies, government and investors.
 
-### Problem Statement:
+## Problem Statement:
 Oil theft and pipeline vandalism have led to significant production losses, reduced fiscalized revenue, and increased security risks in the oil and gas industry. This issue affects national income and threatens economic stability. Despite existing measures, theft patterns continue to evolve making it critical to analyze their impact on production and revenue to develop effective mitigation strategies.
 
 ## Key Questions:
 - What is the overall production loss by year.
-- Which Producer had the highest revenue loss?
-- What factors contributes the most to oil loss?
-- Which Producer has the highest percentage loss?
-- What is the relationship between between fizcalized production and fiscalized revenue, does theft have any impact?
-- Who owns the highest crude terminal
-- Which crude terminals is high risk for theft, error and other oil loss
-- Which crude terminals is Safe from theft ?
-- Which crude terminal is the safest from thefft
 - Who produces the most oil
-- which terminal operator has the higest operationall loss
-
+- Which Producer experienced the highest revenue loss due to oil theft and operational losses?
+- Which Producer has the highest percentage loss?
+- Who owns the largest crude terminal
+- Which terminal operator has the highest operational loss
+- What is the relationship between between fizcalized production and fiscalized revenue, does theft have any impact?
+- What factors contributes the most to oil loss?
+- Which crude terminlas are at the highest risk for theft, operational errors or other losses?
+- What are the key factors that make certain crude terminals more vulnerable to theft and operational losses?
+- Which crude terminal is the safest from theft
+  
 ## Data Sources:
 -	NEITI
 -	EIA
