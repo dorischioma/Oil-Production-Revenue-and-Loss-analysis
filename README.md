@@ -43,7 +43,12 @@ Historical production and revenue data was downloaded precleaned and organized a
 ## Key Insights
 ### Production Loss and Revenue Trend by Year
 - Production Loss by year: 2023 saw a significant reduction (7.68M barrels) compared to 2022 (36.69M barrels) indicating improved security or operational measures.
-- Factors contributing to loss: Theft and measurement errors are the biggest contributors, accounting for 91% of total losses.
+- Factors contributing to loss: In 2022, Theft/sabotage was the highest contributor to oil loss leading to a loss of (21.15M barrels, 57.63%), followed by measurment error (11.25M barrels, 30.65%). And in 2023 there was a decline, theft/sabotage generated a loss of 5.25M barrels, 64.34% and measurement errors 2.91M, 35.64%, suggesting that theft prevention and accurate metering systems should be prioritized.
 - Total Revenue trend: Revenue grew steadily from $6bn in 1994 to $46bn in 2011, despite fluctuations. A decline followed, with revenue dropping to $36bn in 2014, and there is a data gap from 2015-2021. After 2021, revenue peaked at $50bn in 2023, but slightly declined to $44bn in 2023.
+
+
+### Production and Revenue Loss by Producer
+- Overall percentage loss by producer: NNPC E & P recorded the highest percentage loss, followed closely br Shell Petroleum and Development Company, then Seplat
+
 
 
