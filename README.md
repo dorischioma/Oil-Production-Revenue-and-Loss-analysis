@@ -43,5 +43,7 @@ Historical production and revenue data was downloaded precleaned and organized a
 ## Key Insights
 ### Production Loss and Revenue Trend by Year
 - Production Loss by year: 2023 saw a significant reduction (7.68M barrels) compared to 2022 (36.69M barrels) indicating improved security or operational measures.
+- Factors contributing to loss: Theft and measurement errors are the biggest contributors, accounting for 91% of total losses.
+- Total Revenue trend: Revenue grew steadily from $6bn in 1994 to $46bn in 2011, despite fluctuations. A decline followed, with revenue dropping to $36bn in 2014, and there is a data gap from 2015-2021. After 2021, revenue peaked at $50bn in 2023, but slightly declined to $44bn in 2023.
 
 
