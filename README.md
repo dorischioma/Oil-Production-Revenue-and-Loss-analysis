@@ -41,4 +41,7 @@ Historical production and revenue data was downloaded precleaned and organized a
 
 
 ## Key Insights
+### Production Loss and Revenue Trend by Year
+- Production Loss by year: 2023 saw a significant reduction (7.68M barrels) compared to 2022 (36.69M barrels) indicating improved security or operational measures.
+
 
