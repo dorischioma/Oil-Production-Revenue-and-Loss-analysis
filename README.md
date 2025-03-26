@@ -54,6 +54,11 @@ Historical production and revenue data was downloaded precleaned and organized a
 - In 2022, Theft/sabotage was the highest contributor to oil loss leading to a loss of (21.15M barrels, 57.63%), followed by measurment error (11.25M barrels, 30.65%). And in 2023 there was a decline, theft/sabotage generated a loss of 5.25M barrels, 64.34% and measurement errors 2.91M, 35.64%, suggesting that theft prevention and accurate metering systems should be prioritized.
 
 ### Oil Loss Breakdown by Producers
-- NNPC 18(formerly Eroton) faces the highest losses (94% loss rate), but it's revenue loss is $0.31M which is lower than Shell Production and Development Company 
-- Shell, NNPC E&P, and Nigerian Agip lost the most revenue.
+- **Production and Revenue losses comparison across producers:**
+-  In 2022, NNPC 18(formerly Eroton) faces the highest production losses with a 94% overall % loss, it also has the highest discrepancy between metered and fiscalized production, leading to $310.9M loss in revenue, followed closely with the second highest loss is Belema Oil Company, with an 88% overall percentage loss, leading to $124.9M loss in revenue, others are Aiteo Eastern E&P (86%), $155.5M revenue loss and Heirs Energy (62%) with $267.6M loss in revenue.
+- Shell Production Development Company(SPDC) suffered the biggest revenue loss in 2022, despite having a lower percentage loss (32%), SPDC's massive production results in the highest revenue loss of $1.56bn. This suggests that even moderate % losses can lead to significant financial impact. Likewise, NNPC E&P Limited lost $517M which accounts for 13% of its overall production
+- Producers like TotalEnergies E&P (29%) and Nigeria Agip Oil Company(25%), experienced relatively lower losses.
 
+### Oil Loss causes
+- **Primary causes of Production Losses:** Out of 53 producers, about 21 producers did not record any production loss, the remaining 29 producers have theft accounting for overall losses. Producers like NNPC 18 (formerly Eroton) who experienced the highest production loss had theft accounting for 51.9% and measurement error 48% of it's overall loss, while for Belema Oil Company theft accounted for 95.29% of it's loss, For SPDC measurement error led by 43.93%, while theft 36.86%. In conclusion, theft is the leading cause of oil loss, followed by measuremnt error and arithmetical errors.
+- **Companies with the highest theft losses**: 
