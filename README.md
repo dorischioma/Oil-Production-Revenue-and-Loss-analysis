@@ -78,4 +78,5 @@ Historical production and revenue data was downloaded precleaned and organized a
 - **Terminal operators who own the highest number of crude terminals:** SPDC (Shell Petroleum Development Company) operates the most crude terminals (15 terminals).
 - **Terminal operators with the highest error rates in production records:** SPDC shows the highest error rates (98.23%) 
 - **Crude Terminals at the highest risk of oil theft:** Bonny terminal is the most vulnerable to theft (56.64%), followed by Forcados (23.5%), Brass (15%.5), Bonny (OML 11) and Escravos.
-- **How production vary across crude terminals:** MPN and SPDC terminals have the highest fiscalized production volumes.
+- **How production vary across crude terminals:** MPN owns 4 crude terminals which is less compared to SPDC, but terminals operated by MPN has a little more fiscalized production volume than SPDC have the highest fiscalized production volumes.
+- **Crude Terminals safe from oil theft:** Terminals operated by MPN (QIT, ERHA, USAN and YOHO) have no theft record and are completely safe from theft, a few others are TUPNI (EGINA,AKPO), SNEPCO(BONGA), STARDEEP(AGBAMI) and TEPNG(ODUDU). 
