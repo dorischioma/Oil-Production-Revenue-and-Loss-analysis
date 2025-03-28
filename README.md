@@ -11,24 +11,28 @@ Key stakeholders include oil companies, government and investors.
 Oil theft and pipeline vandalism have led to significant production losses, reduced fiscalized revenue, and increased security risks in the oil and gas industry. This issue affects national income and threatens economic stability. Despite existing measures, theft patterns continue to evolve making it critical to analyze their impact on production and revenue to develop effective mitigation strategies.
 
 ## Key Questions:
+### Production Loss and Revenue Trend by Year
 - How has oil production changed between 2022 and 2023?
 - How has fiscalized production changed, and what does this mean for revenue?
 - How much oil was lost to theft in 2023 compared to 2022?
 - How has total revenue trended from 1994 to 2024?
+### Oil Loss Breakdown by Producers
 - Which oil companies experience the highest losses in production?
 - How do revenue losses compare across different producers?
+### Oil Loss causes
 - What are the primary causes of production losses?
 - Which companies have the highest theft losses?
+### Fiscalized Production vs Revenue
 - Which oil producers have the highest fiscalized production?
 - How do fiscalized production and revenue estimates compare among producers?
 - What is the relationship between fiscalized production and estimated revenue?
 - Which producers have the largest gaps between production and revenue?
+### Terminal Analysis
 - Which terminal operators own the highest number of crude terminals?
 - Which terminal operators have the highest error rates in production records?
 - Which terminals are at the highest risk of oil theft?
 - How does production vary across different crude terminals?
 
-  
 ## Data Sources:
 -	NEITI
 -	EIA
