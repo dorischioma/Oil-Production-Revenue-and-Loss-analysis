@@ -1,4 +1,4 @@
-# Oil-Production-Revenue-and-Theft-analysis
+# Oil-Production-Revenue-and-Loss-analysis
 
 ## Project Overview:
 Oil production and revenue are major issues, and theft (like pipeline vandalism) is a huge challenge that affects national income. 
