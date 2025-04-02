@@ -42,7 +42,7 @@ Theft and pipeline vandalism have long been major threats to Nigeria’s oil ind
 - Power BI
 
 ### Data cleaning
-** Ensuring Accuracy and Consistency**
+**Ensuring Accuracy and Consistency**
 - Historical production and revenue data were pre-cleaned and well-organized.
 - Brent crude oil price data was aggregated yearly.
 - The 2022–2023 crude production dataset required:
@@ -60,11 +60,10 @@ At first glance, Nigeria’s oil production numbers show signs of improvement.
 But a deeper look reveals a troubling pattern: fiscalized production remains significantly lower than metered production across all producers. The difference represents unaccounted for oil, oil that is either stolen, lost due to measurement errors, or unreported.
 For example:
 - NNPC 18 produced 3.28M barrels in 2023, but only 205K barrels were fiscalized. The missing 3M barrels, 94% of its production simply disappeared.
-- Other producers reported similar gaps, raising urgent questions about accountability and measurement accuracy.
-
-Oil Theft: A 75% Drop, but the Fight Isn’t Over
-The good news? Theft volume dropped sharply from 21.15M barrels in 2022 to just 5.25M barrels in 2023, a 75.16% decrease.
+**Oil Theft saw a 75% Drop, but the fight isn't over**
+The good news? Theft volume dropped sharply from 21.5M barrels in 2022 to just 5.25M barrels in 2022, a 75.16% decrease.
 This suggests that improved security measures and stricter monitoring are working. But even with this decline, theft still cost the industry billions.
+
 --------
 
 ### 2. Oil Loss Breakdown by Producers
