@@ -62,7 +62,7 @@ For example:
 - NNPC 18 produced 3.28M barrels in 2023, but only 205K barrels were fiscalized. The missing 3M barrels, 94% of its production simply disappeared.
 - Other producers reported similar gaps, raising urgent questions about accountability and measurement accuracy.
 
-**Oil Theft: A 75% Drop, but the Fight Isn’t Over**
+Oil Theft: A 75% Drop, but the Fight Isn’t Over
 The good news? Theft volume dropped sharply from 21.15M barrels in 2022 to just 5.25M barrels in 2023, a 75.16% decrease.
 This suggests that improved security measures and stricter monitoring are working. But even with this decline, theft still cost the industry billions.
 --------
