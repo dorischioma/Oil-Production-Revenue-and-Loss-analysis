@@ -1,7 +1,7 @@
 # Oil-Production-Revenue-and-Loss-analysis
 
 ## Project Overview:
-Nigeria’s oil industry is the backbone of its economy. For decades, oil has fueled government budgets, international trade, and infrastructure development. But behind the numbers lies a hidden crisis—one that is costing the country billions of dollars every year.
+Nigeria’s oil industry is the backbone of its economy. For decades, oil has fueled government budgets, international trade, and infrastructure development.But behind the numbers lies a hidden crisis, one that is costing the country billions of dollars every year.
 
 Oil theft, pipeline vandalism, and severe production losses have turned what should be a thriving sector into a battleground of inefficiencies and lost potential. Despite efforts to curb the issue, thousands of barrels of oil vanish daily, affecting national revenue, investor confidence, and economic stability.
 
