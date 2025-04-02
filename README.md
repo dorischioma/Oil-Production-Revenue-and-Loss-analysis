@@ -8,7 +8,7 @@ Oil theft, pipeline vandalism, and severe production losses have turned what sho
 This report dives into the extent of these losses, revealing the trends, key players, and hidden gaps in Nigeria’s oil production system. It also presents data-driven recommendations to close these gaps and improve oil sector performance.
 
 ## Problem Statement:
-Theft and pipeline vandalism have long been major threats to Nigeria’s oil industry. But the problem goes beyond criminal activities—many losses stem from measurement errors, operational inefficiencies, and reporting discrepancies that create significant financial leaks.
+Theft and pipeline vandalism have long been major threats to Nigeria’s oil industry. But the problem goes beyond criminal activities, many losses stem from measurement errors, operational inefficiencies, and reporting discrepancies that create significant financial leaks.
 
 ## Key Questions:
 ### Production Loss and Revenue Trends by Year
