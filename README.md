@@ -62,7 +62,7 @@ For example:
 **Oil Theft saw a 75% Drop, but the fight isn't over**
 The good news? Theft volume dropped sharply from 21.5M barrels in 2022 to just 5.25M barrels in 2022, a 75.16% decrease.
 This suggests that improved security measures and stricter monitoring are working. But even with this decline, theft still cost the industry billions.  
-[Overview Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Overview%20Dashboard.png/)
+![Overview Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Overview%20Dashboard.png/)
 
 ### 2. Oil Loss Breakdown by Producers
 **Massive Losses for Some, Marginal Losses for Others**
@@ -75,7 +75,7 @@ Yet, some producers have relatively lower losses:
 - Esso Exploration and Mobil Producing had the smallest revenue gap (>1%), showing stronger production accountability.
 This raises an important question: Why do some companies lose so much while others don’t?
 The answer lies in theft rates, measurement errors, and operational efficiency.  
-[Producer Comparison Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Producer%20Comparison%20Dashboard.png/)
+![Producer Comparison Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Producer%20Comparison%20Dashboard.png/)
 
 ### 3. Oil Loss causes
 **Primary causes of production loss**
@@ -92,7 +92,7 @@ Some companies saw their theft volumes eat up nearly all of their production cap
 - Belema, Newcross E&P, and Heirs Energy also ranked among the hardest hit.
 
 In contrast, some terminals reported zero theft, proving that security investments do work.  
-[Loss Comparison](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Loss%20Comparison%20Dashboard.png/)
+![Loss Comparison](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Loss%20Comparison%20Dashboard.png/)
 
 ### 4. Fiscalized Production vs Revenue
 In 2022 and 2023, three oil giants: TotalEnergies Upstream, Mobil Producing Nigeria Unlimited, and Chevron Nigeria Limited, stood out as the top producers with the highest fiscalized volumes. Naturally, this translated to higher revenues.
@@ -106,7 +106,7 @@ The charts made this painfully clear: producers hit hardest by theft and measure
 **More Fiscalized Production = More Revenue**
 The pattern was undeniable, companies that successfully fiscalized most of their production enjoyed higher revenues. But theft, leaks, and accounting errors were massive obstacles.
 If oil producers could recover even a fraction of these losses, it could mean billions of dollars in regained revenue—money that could boost economic stability, fund development, and improve investor confidence.  
-[Production Metrics Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Production%20Metrics%20Dashboard.png/)
+![Production Metrics Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Production%20Metrics%20Dashboard.png/)
 
 -------
 ### 5. Terminal Analysis
@@ -116,7 +116,7 @@ Certain oil terminals consistently report high theft rates, making them hotspots
 - Forcados Terminal followed with 23.5% losses.
 - Brass, Escravos, and Bonny (OML 11) also ranked high in vulnerability.
 However, not all terminals are at risk. Terminals operated by MPN, TotalEnergies, and SNEPCO reported zero theft.  
-[Terminal Analysis Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Terminal%20analysis%20dashboard.png/)
+![Terminal Analysis Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Terminal%20analysis%20dashboard.png/)
 
 ## Recommendations
 1. **Enhanced Security Measures at High Risk Terminals**: Between 2022-2023, 26.40M barrels of oil was lost to theft which was valued at approximately $213.4bn, with significant losses reported at the Bonny, Forcados amd Brass terminals. According to [Brand Spur](https://brandspurng.com/2019/09/19/shell-petroleum-commences-aerial-surveillance-to-reduce-pipeline-vandalism/), The deployment of aerial surveillance and advanced monitoring technologies has been identified as a strategic approach to combat pipeline vandalism and oil theft in Nigeria. 
