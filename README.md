@@ -104,7 +104,7 @@ For some companies, production numbers looked good on paper, until you saw how m
 - NNPC 18 (formerly Eroton) suffered the worst revenue loss in 2022, with $310.9 million vanishing. Nearly 94% of its production was lost before reaching fiscalization.
 - Belema Oil & Aiteo faced an even grimmer reality over 80% of their revenue potential disappeared.
 
-The charts made this painfully clear: producers hit hardest by theft and measurement issues were marked in red, a visual reminder of the billions slipping away.
+The charts made this painfully clear: producers hit hardest by theft and measurement issues were marked in red, a visual reminder of the billions slipping away.  
 **More Fiscalized Production = More Revenue**  
 The pattern was undeniable, companies that successfully fiscalized most of their production enjoyed higher revenues. But theft, leaks, and accounting errors were massive obstacles.
 If oil producers could recover even a fraction of these losses, it could mean billions of dollars in regained revenue—money that could boost economic stability, fund development, and improve investor confidence.  
