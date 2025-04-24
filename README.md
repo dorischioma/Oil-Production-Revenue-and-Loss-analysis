@@ -11,48 +11,50 @@ This report dives into the extent of these losses, revealing the trends, key pla
 Theft and pipeline vandalism have long been major threats to Nigeria’s oil industry. But the problem goes beyond criminal activities, many losses stem from measurement errors, operational inefficiencies, and reporting discrepancies that create significant financial leaks.
 
 ## Key Questions:
-### Production Loss and Revenue Trends by Year
+#### Production Loss and Revenue Trends by Year
 - How has oil production changed between 2022 and 2023?
 - How has fiscalized production changed, and what does this mean for revenue?
 - How much oil was lost to theft in 2023 compared to 2022?
 - How has total revenue trended from 1994 to 2024?
-### Oil Loss Breakdown by Producers
+#### Oil Loss Breakdown by Producers
 - Which oil companies experience the highest losses in production?
 - How do revenue losses compare across different producers?
-### Oil Loss causes
+#### Oil Loss causes
 - What are the primary causes of production losses?
 - Which producers have the highest theft losses?
-### Fiscalized Production vs Revenue
+#### Fiscalized Production vs Revenue
 - Which oil producers have the highest fiscalized production?
 - How do fiscalized production and revenue estimates compare among producers?
 - What is the relationship between fiscalized production and estimated revenue?
 - Which producers have the largest gaps between production and revenue?
-### Terminal Analysis
+#### Terminal Analysis
 - Which terminal operators own the highest number of crude terminals?
 - Which terminal operators have the highest error rates in production records?
 - Which terminals are at the highest risk of oil theft?
 - How does production vary across different crude terminals?
 
 ## Data Sources:
--	NEITI
--	EIA
+The spreadsheets for this project was downloaded from:  
+-	[NEITI](https://neiti.gov.ng/reports/)
+- [EIA](https://www.eia.gov/dnav/pet/hist/RBRTED.htm/)
 
 ## Tools Used
-- Microsoft Excel
-- Power BI
+- Microsoft Excel: Data inspection, cleaning and structuring.
+- Power BI: Interactive dashboard designs and visuals analysis.
 
-### Data cleaning
-- Historical production and revenue data were pre-cleaned and well-organized.
+## Data cleaning  
+Historical production and revenue data did not require any cleaning because all colums included the right data type.  
+I took the following steps to prepare brent data and crude production 2022-2023 data:    
 - Brent crude oil price data was aggregated yearly.
 - The 2022–2023 crude production dataset required:
   - Removal of unnecessary columns.
   - Handling of duplicates and missing values.
-  - Data restructuring for improved analysis.
+  - Data structuring for improved analysis.
   - Standardization of text formatting.
 
 ## Key Insights
-### 1. Production Loss and Revenue Trend by Year
-**Production is improving, but is it enough?**
+### 1. Production Loss and Revenue Trend by Year  
+**Production is improving, but is it enough?**  
 At first glance, Nigeria’s oil production numbers show signs of improvement.
 - In 2023, total metered production increased by 3.34% to 545.25M barrels, up from 527.64M barrels in 2022.
 - More importantly, fiscalized production (the actual oil accounted for in revenue) rose by 9.5%, suggesting better efficiency in reporting and operations.
@@ -65,7 +67,7 @@ This suggests that improved security measures and stricter monitoring are workin
 ![Overview Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Overview%20Dashboard.png/)
 
 ### 2. Oil Loss Breakdown by Producers
-**Massive Losses for Some, Marginal Losses for Others**
+**Massive Losses for Some, Marginal Losses for Others!**  
 Not all oil producers experience losses at the same rate. Some companies consistently report massive production gaps, while others have better control over their output.
 - NNPC 18 (formerly Eroton) recorded the highest losses in 2022, with a staggering 94% of its production disappearing. This translated to a $310.9M revenue loss.
 - Belema Oil Company followed with an 88% loss, costing $124.9M in revenue.
@@ -78,14 +80,14 @@ The answer lies in theft rates, measurement errors, and operational efficiency.
 ![Producer Comparison Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Producer%20Comparison%20Dashboard.png/)
 
 ### 3. Oil Loss causes
-**Primary causes of production loss**
+**Primary causes of production loss.**  
 By analyzing 53 producers, we found that 21 producers reported zero losses—a sign that better security and measurement systems can make a difference.
 But for the 29 producers who did experience losses, the causes varied:
 - In 2022, theft accounted for over 90% of losses for most producers.
 - Some companies, like Belema Oil, lost 95.29% of their production purely to theft.
 - Others, like SPDC, suffered mainly from measurement errors (43.93% loss) rather than theft (36.86%).
 By 2023, overall theft dropped, but measurement errors remained a persistent issue.
-**Producers with the highest Theft Loss**
+**Producers with the highest Theft Loss**  
 Some companies saw their theft volumes eat up nearly all of their production capacity:
 - Seplat Energy lost 73.56% of its production to theft (1.8M barrels in 2023).
 - NAOC lost 80.16% of its total production to theft.
@@ -103,14 +105,14 @@ For some companies, production numbers looked good on paper, until you saw how m
 - Belema Oil & Aiteo faced an even grimmer reality over 80% of their revenue potential disappeared.
 
 The charts made this painfully clear: producers hit hardest by theft and measurement issues were marked in red, a visual reminder of the billions slipping away.
-**More Fiscalized Production = More Revenue**
+**More Fiscalized Production = More Revenue**  
 The pattern was undeniable, companies that successfully fiscalized most of their production enjoyed higher revenues. But theft, leaks, and accounting errors were massive obstacles.
 If oil producers could recover even a fraction of these losses, it could mean billions of dollars in regained revenue—money that could boost economic stability, fund development, and improve investor confidence.  
 ![Production Metrics Dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/Production%20Metrics%20Dashboard.png/)
 
 -------
 ### 5. Terminal Analysis
-**High theft risk terminals**
+**High theft risk terminals**  
 Certain oil terminals consistently report high theft rates, making them hotspots for illegal activity:
 - Bonny Terminal lost 56.64% of its production to theft.
 - Forcados Terminal followed with 23.5% losses.
@@ -128,8 +130,8 @@ However, not all terminals are at risk. Terminals operated by MPN, TotalEnergies
 
 ## How to Use This Repo  
 1. **Download the dataset** from this repository.  
-2. **Open `Oil_Giants_Financial_analysis..xlsx`** in Excel to explore raw data.  
-3. **View the dashboard** to see visualized insights.  
+2. **Open `Oil and gas production, revenue and theft analysis..xlsx`** in Excel to explore raw data.  
+3. **[View the dashboard](https://github.com/dorischioma/Oil-Production-Revenue-and-Loss-analysis/blob/main/OIL%20%26%20GAS%20PRODUCTION%2C%20REVENUE%20AND%20THEFT%20ANALYSIS.pbix/)** to see visualized insights.  
 
 ## Contact  
  **LinkedIn:** [Doris Mba](https://www.linkedin.com/in/dorismba/)  
